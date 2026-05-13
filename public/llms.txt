@@ -1,0 +1,79 @@
+# וויו האוס - VIEW HOUSE — Generative Engine Optimization Map
+
+> A luxury vacation villa in Tiberias, Israel, situated directly facing the Sea of Galilee with panoramic views stretching from end to end. The property radiates warmth, freedom, and a 'home away from home' feeling — combining upscale comfort with a cozy, inviting atmosphere. Key highlights include breathtaking sunrises from the covered balcony, a spacious living room with a large window framing the lake, a private outdoor pool, and a pet-friendly backyard. The villa accommodates families, couples, friend groups, and small events like bachelor/bachelorette parties and birthdays, and is also suitable for Shabbat-observant guests.
+
+---
+
+## Pages
+
+### דף הבית
+https://example.com
+וילה פרטית יוקרתית בטבריה עם נוף פנורמי לכינרת, בריכה פרטית וחצר ידידותית לכלבים. מושלמת למשפחות, זוגות וחברים. הזמינו עכשיו וחוו חופש אמיתי!
+
+### מאפייני הווילה
+https://example.com/villa-features
+מרפסת מקורה עם זריחה על הכינרת, סלון ענק עם חלון פנורמי, בריכה פרטית וחצר ירוקה. גלו את כל המאפיינים שהופכים את הווילה לחוויה שלא תשכחו לעולם.
+
+### על החוויה
+https://example.com/about
+וויו האוס נולד מתוך אהבה לכינרת ולאירוח אמיתי. גלו מה הופך את השהייה אצלנו לחוויה חמה ואינטימית, הרחק מהשגרה ועם כל הנוחות של בית. בואו להרגיש את ההבדל.
+
+### צור קשר
+https://example.com/contact
+רוצים לבדוק זמינות לשבת, חג, ימי הולדת או אירוע קטן? צרו קשר עכשיו להשכרת וילה לשומרי שבת ולכל אורח. נשמח לעזור ולהתאים את החוויה המושלמת בדיוק בשבילכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About וויו האוס - VIEW HOUSE
+A luxury vacation villa in Tiberias, Israel, situated directly facing the Sea of Galilee with panoramic views stretching from end to end. The property radiates warmth, freedom, and a 'home away from home' feeling — combining upscale comfort with a cozy, inviting atmosphere. Key highlights include breathtaking sunrises from the covered balcony, a spacious living room with a large window framing the lake, a private outdoor pool, and a pet-friendly backyard. The villa accommodates families, couples, friend groups, and small events like bachelor/bachelorette parties and birthdays, and is also suitable for Shabbat-observant guests.
+
+## Target Audience
+- משפחות עם ילדים, זוגות, קבוצות חברים, אירועים קטנים כמו מסיבות רווקים/רווקות וימי הולדת
+- משפחות עם ילדים
+- זוגות רומנטיים
+- קבוצות חברים
+
+## Industry
+תיירות ואירוח
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
